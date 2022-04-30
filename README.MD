@@ -2,11 +2,9 @@
 
 ## by Sophia De La Rosa
 
-* **User story:** AS A marketing agency
-I WANT a codebase that follows accessibility standards
-SO THAT our own site is optimized for search engines
+**User story:** "As a marketing agency, I want a codebase that follows accessibility standards so that our own site is optimized for search engines."
 
-Description of product: Alt tags provided as an assistive technology for improved accessibility. Code is functioning and was refactored for better consolidation, organization and efficiency. Webpage meets accessibility standards, follows semantic HTML elements, 
+Description of product: Code is functioning and was refactored for better consolidation, organization and efficiency. Alt tags provided so the webpage meets accessibility standards. Comments added for clarity and ease of future updates.
 
 Link to deployed application: https://sophiadelarosa.github.io/homework-week1/
 
@@ -15,7 +13,7 @@ Link to deployed application: https://sophiadelarosa.github.io/homework-week1/
 
 The following image shows the web application's appearance and functionality: 
 
-![Test image](\assets\images\horiseon.jpg)
+![Test image](assets/images/horiseon.jpg)
 
 
 
