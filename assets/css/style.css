@@ -8,6 +8,7 @@ body {
     background-color: #d9dcd6;
 }
 
+/* Header class changed to affect header element instead */
 header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -15,15 +16,18 @@ header {
     color: #ffffff;
 }
 
+/* Header class changed to affect header element instead */
 header h1 {
     display: inline-block;
     font-size: 48px;
 }
 
+/* Header class changed to affect header element instead */
 header h1 .seo {
     color: #d9dcd6;
 }
 
+/* Header class changed to affect header element instead, div changed to nav */
 header nav {
     padding-top: 15px;
     margin-right: 20px;
@@ -32,10 +36,12 @@ header nav {
     font-size: 20px;
 }
 
+/* Header class changed to affect header element instead, div changed to nav */
 header nav ul {
     list-style-type: none;
 }
 
+/* Header class changed to affect header element instead, div changed to nav */
 header nav ul li {
     display: inline-block;
     margin-left: 25px;
@@ -86,6 +92,7 @@ p {
     background-color: #2589bd;
 }
 
+/* benefit-section class established to consolidate and apply to each section of the aside element */
 .benefit-section {
     margin-bottom: 32px;
     color: #ffffff;
@@ -102,6 +109,7 @@ p {
     max-width: 150px;
 }
 
+/* main-content class established to consolidate and apply to each section of the main element */
 .main-content {
     margin-bottom: 20px;
     padding: 50px;
@@ -120,6 +128,7 @@ p {
     font-size: 36px;
 }
 
+/* Footer class changed to affect footer element instead */
 footer {
     padding: 30px;
     clear: both;
