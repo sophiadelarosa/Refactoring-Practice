@@ -1,4 +1,4 @@
-# 01 HTML, CSS, and Git: Code Refactor Challenge Week 1
+# HTML, CSS, and Git: Code Refactoring
 
 ## by Sophia De La Rosa
 
